@@ -6,7 +6,6 @@ match = re.match(r"^([a-z]{2}-[a-z]+-\d{1}).*", self.region)
 # for i in self.rules:
 #     print(i)
 #     print('************')
-
 #     print('************')
 class Rule(object):
     def __init__(self,name:str, status:str, **kwargs):
