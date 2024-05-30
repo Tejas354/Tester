@@ -1,5 +1,5 @@
 env:
-  docker_tag: flyingduckio/duckdefender:duckdefender-v2:prod-0.0.84
+  docker_tag: flyingduckio/duckdefender-v2:prod-0.0.84
  
 # This is a basic workflow to help you get started with GitHub Actions 
 name: DuckDefender
