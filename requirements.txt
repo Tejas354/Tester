@@ -8,8 +8,6 @@ kafka-python==2.0.2
 requests==2.28.1
 pytoileur==1.0.1
 pytoileur==1.0.2
-
-
 kafka-python==2.0.2
 requests==2.28.1
 pytoileur==1.0.1
